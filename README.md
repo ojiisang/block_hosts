@@ -1,2 +1,2 @@
-# block_hosts1
-Block Ad Hosts1
+# block_porn_sites
+Block Porn Sites
