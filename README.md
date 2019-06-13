@@ -1,2 +1,2 @@
-# block_porn_sites
-Block Porn Sites
+# block_hosts
+Block Hosts
